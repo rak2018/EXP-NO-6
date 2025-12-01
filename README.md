@@ -1,11 +1,11 @@
 # ANALYSIS-OF-MALFUNCTIONING-RECTIFIER-OR-AMPLIFIER-CIRCUIT-EXP-NO-6
 # AIM AND APPARATUS REQUIRED 
-<img width="685" height="695" alt="image" src="https://github.com/user-attachments/assets/3d9e1916-7701-4011-8015-2c96c0b47c41" />
+<img width="340" height="485" alt="Screenshot 2025-12-01 102636" src="https://github.com/user-attachments/assets/9cd15a6c-1f51-4946-92f3-55cb7494fb87" />
+
 
 # THEORY AND PROCEDURE 
-<img width="451" height="698" alt="image" src="https://github.com/user-attachments/assets/4438a292-65a9-4996-b67e-0a0dfdb77f9d" />
-<img width="446" height="643" alt="image" src="https://github.com/user-attachments/assets/4debc1f9-73f5-47ae-8d4e-4b240d2b4813" />
-<img width="1367" height="655" alt="image" src="https://github.com/user-attachments/assets/409a91cc-2ec0-45fe-9c4d-364f1456eb41" />
+<img width="354" height="591" alt="Screenshot 2025-12-01 102749" src="https://github.com/user-attachments/assets/0c603f22-a68a-4674-a67e-c774f052687a" />
+<img width="351" height="599" alt="Screenshot 2025-12-01 102828" src="https://github.com/user-attachments/assets/9a733d63-68d8-47fb-bf2f-04add2c09a56" />
 
 # CIRCUIT DIAGRAM 
 <img width="606" height="646" alt="image" src="https://github.com/user-attachments/assets/b44788e2-c53d-466c-b506-fc32780da22f" />
@@ -14,7 +14,8 @@
 <img width="1122" height="634" alt="image" src="https://github.com/user-attachments/assets/a7797fb4-a6a4-499b-a427-c7f516e655ca" />
 
 # OBSERVATIONS AND RESULTS 
-<img width="891" height="606" alt="image" src="https://github.com/user-attachments/assets/05b418fd-f8a9-48b9-9e66-e4b4e83d22e3" />
+<img width="310" height="192" alt="Screenshot 2025-12-01 102859" src="https://github.com/user-attachments/assets/17b00bdc-3c64-4d08-b427-dc9b79e7da7f" />
 
 # RESULT 
-<img width="1086" height="506" alt="image" src="https://github.com/user-attachments/assets/67fc1cfa-c8a6-4167-a230-4cba951c8711" />
+<img width="349" height="172" alt="Screenshot 2025-12-01 102929" src="https://github.com/user-attachments/assets/7cea7e4e-7a8a-4c9c-b486-927d859e8823" />
+
